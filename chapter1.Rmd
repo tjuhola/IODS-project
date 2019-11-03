@@ -2,3 +2,4 @@
 # About the project
 
 *Write a short description about the course and add a link to your GitHub repository here. This is an R Markdown (.Rmd) file so you can use R Markdown syntax.*
+I heard about this course from the email sent by the **doctoral program**. During this course I hope to learn to use these tools so that I can employ statistical methods in my research work. Here is [my repository](https://github.com/tjuhola/IODS-project). 
